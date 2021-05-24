@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    border-radius: 20px;
+    border-style: solid;
+    border: tomato;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+body{
+    background-color: tomato;
+}

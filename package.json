@@ -1,0 +1,20 @@
+{
+  "name": "npm-y-git-con-sus-ramas",
+  "version": "1.0.0",
+  "description": "Aprendiendo a usar git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "programacion",
+    "pagina",
+    "web",
+    "css",
+    "html5"
+  ],
+  "author": "Victor Martinez",
+  "license": "MIT"
+}
